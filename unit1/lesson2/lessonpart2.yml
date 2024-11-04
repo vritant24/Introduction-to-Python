@@ -1,0 +1,48 @@
+id: lessonpart2
+title: 💡 Terminal Input/Output
+content: "## Phases of a Program\r
+
+  \r
+
+  Every program has three main phases. First, input data is given to the
+  program. Second, the data is processed. Third, the data is output in some way
+  to the user. _Inputs_ and _Outputs_ are how we connect programs to the real
+  world.\r
+
+  \r
+
+  Think of it like baking. The inputs are your ingredients. Mixing and stirring
+  are the processing. Then, the cake is your output.\r
+
+  \r
+
+  ## Input\r
+
+  \r
+
+  Examples of input are data typed by a keyboard, movements made by your mouse,
+  data from the internet, and data from sensors.\r
+
+  \r
+
+  ## Processing\r
+
+  \r
+
+  Examples of processing are operations that do math, manipulate text, and make
+  logical queries.\r
+
+  \r
+
+  ## Output\r
+
+  \r
+
+  Examples of output are pixels on your screen, sound from your speakers, paper
+  out of your printer, or the movement of a robotic arm.\r
+
+  \r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false
