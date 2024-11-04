@@ -1,0 +1,93 @@
+id: lessonpart4
+title: 💡 A Language for Instructions
+content: "Human languages, like English or Spanish, can be used to talk about
+  many complex ideas. However, programming languages are good for only one
+  thing: giving instructions to a computer to solve a problem. We don't use
+  programming languages to talk to each other the same way we do human
+  languages. That's because programming languages have a small vocabulary and
+  limited grammar.\r
+
+  \r
+
+  ## A Small Language\r
+
+  \r
+
+  Imagine you're giving commands to a very small child in English. The child
+  only knows a few words. If they don't know a word, you will have to explain
+  new words to them using words they already understand. Programming languages
+  are like this: you build new words using a small set of original words. Most
+  words and ideas that we take for granted as smart humans are not usable in a
+  programming language unless we add them ourselves based on existing words.
+  Basically, you can never underestimate how little a computer will understand
+  when it comes to a programming language.\r
+
+  \r
+
+  ## Rules\r
+
+  \r
+
+  Programming languages have very strict rules. This is like how we have rules
+  in English. There are two kinds of rules:\r
+
+  \r
+
+  -   **Syntax**: grammar, spelling, punctuation\r
+
+  -   **Semantics**: logic, making sense, intent\r
+
+  \r
+
+  ## Syntax\r
+
+  \r
+
+  > [!TIP]\r
+
+  > Syntax Example\r
+
+  > Run can . upwAys the, to healp?!?\r
+
+  \r
+
+  In English, we follow grammar rules about how we can structure our sentences.
+  The sentence shown here is not grammatically correct English, so we would
+  reject it. Similarly, in Python, we use symbols, spaces, and words in very
+  precise ways. Using them incorrectly will give you a \"syntax error.\" You
+  will probably make many syntax errors as you learn to program.\r
+
+  \r
+
+  ## Semantics\r
+
+  \r
+
+  > [!TIP]\r
+
+  > Semantics Example\r
+
+  > Colorless green ideas sleep furiously\r
+
+  \r
+
+  Although the sentence here follows grammar rules, it doesn't make any sense.
+  This is the idea of semantics - the rules concerned with meaning. It is very
+  easy to write perfectly valid sentences in Python that accomplish nothing at
+  best and hurt things at worst. You need to think critically when programming
+  to recognize when you've written instructions that make no sense.\r
+
+  \r
+
+  ## Programs are Text\r
+
+  \r
+
+  When you write a Python program, you are just writing some text. That text
+  needs to be valid Python text, following all its syntax rules. But that means
+  it's not that different from an essay you might write in your own
+  language.\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false

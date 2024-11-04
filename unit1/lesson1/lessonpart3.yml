@@ -1,0 +1,64 @@
+id: lessonpart3
+title: 💡 Python
+content: "In this course, you are learning a programming language named Python.
+  However, there are many programming languages out there. You might be
+  wondering why Python is a good language to learn if there are so many
+  options.\r
+
+  \r
+
+  First, Python is one of the most popular languages in the world; in fact,
+  according to some metrics, it might be THE most popular programming language
+  in the world. Second, it has a huge number of libraries that make it useful
+  for a wide range of problems in scientific computing, data science, web
+  development, and much more. Third, it is sometimes called a \"friendly\"
+  language for beginners, because many people have found it easier to learn than
+  other languages despite being so powerful.\r
+
+  \r
+
+  > [!TIP]\r
+
+  > What are libraries?\r
+
+  > Libraries in Python are like treasure chests full of useful tools and
+  functions that make your programming life easier. They are pre-written code
+  collections created by other programmers to solve common problems or provide
+  extra functionality. Instead of starting from scratch and writing everything
+  yourself, you can use these libraries to save time and effort.\r
+
+  >\r
+
+  > Imagine you want to prepare a delicious meal, but you don't have all the
+  ingredients and tools necessary. Instead of making everything from scratch,
+  you can rely on a variety of pre-packaged ingredients and kitchen gadgets.
+  Python libraries work in a similar way. They provide you with ready-made
+  ingredients (functions and tools) that you can use to cook up amazing programs
+  without starting from scratch.\r
+
+  \r
+
+  ## Python is a Language and a Tool\r
+
+  \r
+
+  Python is two things:\r
+
+  \r
+
+  1. Python is a **programming language**.\r
+
+  2. Python is a **tool that runs programs**.\r
+
+  \r
+
+  First, as a programming language, Python is a set of rules for writing Python
+  programs. Second, Python is also a program that can execute programs written
+  according to the rules of the Python programming language. Therefore, we will
+  sometimes refer to Python as a language, and sometimes refer to Python as a
+  tool for running programs. Before we explain what it means to run a program,
+  let us talk about programming languages a little more.\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false
