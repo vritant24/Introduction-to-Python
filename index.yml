@@ -1,26 +1,36 @@
-# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: course1
 title: Introduction to Python
 level: beginner
+description: >
+  Python: flexible, easy, popular. Use it for web, software, data, QA, and more.
+  Learn Python today!
+objectives: >-
+  This Python introductory computer science course is designed for both High
+  School (grades 9-12) and College learners. The course does not have any
+  learner prerequisites and is currently available only in English. To
+  participate in the course, you only need access to a device (computer or
+  tablet) with an internet connection.
+
+      In this Course, you will learn:
+      - what programs can and can't do, and why Python is a great choice for coding compared to other languages
+      - how to interact with programs using input and output, including writing Python code to get users involved in programs
+      - about numbers, words, and other types of data, including the basic types of values in Python
+      - the basics of control flow with loops and conditionals
+      - symbols and rules that Python understands, including how Python handles different types of numbers
+      - comparing things and using "True" and "False" in Python - combining these ideas to make your programs do what you want
+      - how Python looks at code and figures out what to do, calculates and follows instructions, and using the terminal
+      - how to create and use variables to store data and how Python handles these containers and giving useful names
+      - how to trace the values of variables as your program runs and how to avoid getting lost
+      - the organization of code using functional and object-oriented coding strategies
+      - how to write comments to explain what code does, including how comments can help you temporarily hide parts of code
+      - how to bring in pre-made code from other places - using different pieces of code to make your programs more powerful
+      - the different kinds of mistakes a developer might encounter and how to figure out what went wrong
+prerequisites: |-
+  - A school or company issued email account
+  - Access to a device (computer or tablet) with an internet connection  
+  - A student in grades 9-12 or over 13 years of age
 contacts:
   - displayName: vritant24
     homePageUrl: https://github.com/vritant24/Introduction-to-Python
 units:
-  - id: unit1
-    title: Introduction
-    objectives: Learn about the course and its objectives.
-    lessons:
-      - id: lesson1
-        title: About this course
-        objectives: Understand the course structure and objectives.
-        lessonParts:
-          - id: lessonpart1
-            title: Welcome to Introduction to Python
-            duration: 5
-            content: |-
-              **Welcome to the course authoring!**
-              You can use Markdown to format your content.
-            showContent: true
-            showEditor: false
-            showTerminal: false
-            showExplorer: false
+  - unit1/index.yml
