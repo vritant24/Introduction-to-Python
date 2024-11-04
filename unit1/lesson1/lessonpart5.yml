@@ -1,9 +1,14 @@
 id: lessonpart5
 title: 💡 Executing a Program
-content: "Once a program is written according to the Python language rules, the
-  program can be executed. This means that the computer will read the text of
-  the program line by line and perform each step. This is just like following
-  the steps of a recipe or instructions; just like a human, the computer will do
+content: "![A picture of a program's source code, with an arrow pointing
+  downward next to it.](../media/image9.png)\r
+
+  \r
+
+  Once a program is written according to the Python language rules, the program
+  can be executed. This means that the computer will read the text of the
+  program line by line and perform each step. This is just like following the
+  steps of a recipe or instructions; just like a human, the computer will do
   each step one at a time.\r
 
   \r

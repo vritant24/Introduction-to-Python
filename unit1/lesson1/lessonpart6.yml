@@ -1,0 +1,85 @@
+id: lessonpart6
+title: "⌨️ Code Challenge: Run a Python Program"
+content: "> [!TIP]\r
+
+  > Woah! What just happened?\r
+
+  > Welcome to a _Code Challenge_! An editor has appeared on the right side of
+  the screen. This is where you will write your code for each Challenge. You can
+  run your code by selecting the green \"Run\" button - a sideways triangle -
+  above the editor. The output of your code will appear in the Terminal below
+  the editor.\r
+
+  \r
+
+  ## Write & Run a Python Program\r
+
+  \r
+
+  The goal of this Challenge is to write a short program in Python that prints
+  out the phrase \"Hello world!\" to the screen. When you see the message
+  appear, you’ll have executed a Python program and successfully completed this
+  Challenge!\r
+
+  \r
+
+  ### Instructions\r
+
+  \r
+
+  1.  Locate the editor in the right-hand side of the screen.\r
+
+  \r
+
+  > [!NOTE] > \\# in your code file?\r
+
+  > When you use a \\# at the beginning or end of a code line, Python interprets
+  this as a comment. If you place a comment at the end of a line, remember that
+  Python will ignore the rest of the line. Python comments are notes or
+  explanations that you can write within your code to help you and others
+  understand what the code is doing. They are like little reminders or messages
+  that you leave for yourself or others who read your code.\r
+
+  \r
+
+  2.  Type the following code into the file below the comment line:\r
+
+  \r
+
+  ```python\r
+
+  print(\"Hello world!\")\r
+
+  ```\r
+
+  \r
+
+  3.  Click the green \"Run\" button (the green triangle) above the editor to
+  print the result of running the code in your Terminal.\r
+
+  4.  Observe the output, which should be the phrase \"Hello world!\" printed to
+  the screen.\r
+
+  \r
+
+  ### Tips and Hints\r
+
+  \r
+
+  -   Make sure to include the parentheses around the text \"Hello world!\" in
+  the print statement.\r
+
+  -   Be careful with spelling, capitalization, and punctuation in your code.\r
+
+  \r
+
+  ### Extend Your Learning\r
+
+  \r
+
+  Using the same `print` call, try creating additional statements in the Editor
+  and checking the output in the Terminal.\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false
