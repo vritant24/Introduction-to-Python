@@ -1,0 +1,16 @@
+id: lesson2
+title: Lesson 2 - User Interaction
+description: "In this section, you will learn how their programs can interact
+  with the user. It begins with explaining the basic phases of program
+  execution: taking input, processing the data, and then presenting output. Then
+  it explains how the terminal, also known as a console, is one place where that
+  input and output can occur. We use the Python `input` and `print` functions to
+  interact with the terminal from our programs."
+objectives: >-
+  Upon completion of this lesson, you'll be able to:
+        - Explain the steps of program execution.
+        - Give examples of input and output for programs.
+        - Write basic python code using print and input to interact with the user.
+        - Explain how programs fundamentally work by transforming data.
+lessonParts:
+  - lessonpart1.yml
