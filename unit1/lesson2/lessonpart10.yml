@@ -1,6 +1,10 @@
 id: lessonpart10
 title: Summary
-content: "-   Every program can be broken down into the stages of taking input,
+content: "# Summary\r
+
+  \r
+
+  -   Every program can be broken down into the stages of taking input,
   processing the data, and then presenting output.\r
 
   -   The terminal, also known as a console, is one of the simplest places for
