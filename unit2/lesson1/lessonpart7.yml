@@ -1,0 +1,11 @@
+id: lessonpart7
+title: Magic Function Box
+content: Think of a function as a magic box full of machinery. You may not be
+  able to see inside the box to know how it works, but you do not need to.
+  Arguments are the knobs and dials on the outside of the box that let you
+  control its inner workings. Returned values are like a slot that dispenses the
+  results of the function.
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false
