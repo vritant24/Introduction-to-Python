@@ -1,0 +1,31 @@
+id: lessonpart4
+title: 💡 Print
+content: "The `print` function lets you write information to users. Printing is
+  necessary because we cannot see \"inside\" the mind of the computer when a
+  program runs. For now, the only thing we end up seeing is the result of
+  whatever we print. Notice that there is some text between the parentheses:
+  this is the text that is output to the user.\r
+
+  \r
+
+  ```python\r
+
+  print(\"This text will be shown to the user.\")\r
+
+  ```\r
+
+  \r
+
+  > [!NOTE]\r
+
+  > Printing Your Code\r
+
+  > Try running this program by copying it to your editor. Run the code and
+  verify the message that \"printed\" on the console. You can think of the
+  console as like a messenger box, for sending and receiving data to and from
+  the computer. Every time you run this program, the exact same text will be
+  written in the console by the computer.\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false

@@ -1,0 +1,23 @@
+id: lessonpart3
+title: Code
+content: "Computers take in data from users and put out results. To transform
+  the inputs into the outputs, we write instructions as code. The instructions
+  that we write are often stored in a program, so that they can be reused. This
+  is what \"programs\" or \"code\" really are. Now let's learn how to write a
+  very simple program by learning two basic commands (which we will also call
+  \"functions\"):\r
+
+  \r
+
+  -   **`input`**: A function to get data from the user\r
+
+  -   **`print`**: A function to report data to the user\r
+
+  \r
+
+  Let's look at what these commands look like in our very first, simple
+  programs.\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false
