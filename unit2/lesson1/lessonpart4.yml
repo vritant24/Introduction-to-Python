@@ -1,0 +1,11 @@
+id: lessonpart4
+title: Delegation of Work
+content: "You don't have to know how a function accomplishes its goal to use it.
+  Think of it like a well-run office. When you ask a co-worker to complete some
+  work, you don't care how it happens — just the inputs and outputs to their
+  process. This separation of concerns allows you to focus on pieces of a
+  program without worrying about the whole thing.\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false

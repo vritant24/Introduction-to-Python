@@ -1,0 +1,72 @@
+id: lessonpart1
+title: Introduction
+content: "## Overview\r
+
+  \r
+
+  In this lesson, you’ll learn how to call functions, which are reusable chunks
+  of code. There are many synonyms for \"calling\" a function, including
+  \"using,\" \"invoking,\" \"executing,\" or \"running\" a function. The core
+  syntax of a function call is the name of the function followed by parentheses.
+  The parentheses are very critical to the execution of the function since
+  otherwise you are just referencing the name of the function instead of
+  actually running it. Sometimes, values are placed between the parentheses as
+  _arguments_ to the function. The function can then transform those arguments
+  and return a new value, possibly even of a different type. The lesson briefly
+  explains the difference between function and method calls, and the difference
+  between functions and programs, although there are many similarities between
+  them.\r
+
+  \r
+
+  ## Learning Objectives\r
+
+  \r
+
+  Upon completion of this lesson, you'll be able to:\r
+
+  \r
+
+  -   Define and justify the use of functions.\r
+
+  -   Define critical terminology of functions including arguments and return
+  values.\r
+
+  -   Write valid function calls with arguments.\r
+
+  -   List synonyms for calling a function.\r
+
+  -   Explain the importance of parentheses in writing function calls.\r
+
+  -   Compare and contrast programs and functions.\r
+
+  -   Write valid method calls on a value.\r
+
+  -   Explain how functions can be called.\r
+
+  -   Evaluate a function call to predict the returned value.\r
+
+  \r
+
+  ## Standards\r
+
+  \r
+
+  Targeted standards for this unit include:\r
+
+  \r
+
+  -   2-AP-14, 6-8: Create procedures with parameters to organize code and make
+  it easier to reuse.\r
+
+  \r
+
+  ## References\r
+
+  \r
+
+  [CSTA Standards](http://www.csteachers.org/standards)\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false

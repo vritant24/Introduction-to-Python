@@ -1,0 +1,28 @@
+id: lessonpart3
+title: 💡 Functions vs. Methods
+content: "Methods are a special kind of function. They are attached strongly to
+  a value. The way we write a method call is slightly different, too, since it
+  needs to incorporate that value. When you want to use a _method_, you need the
+  name, parentheses, AND two more pieces: the calling value or variable and a
+  period. In later lessons, we'll learn more about this strange syntax. For now,
+  get comfortable with the difference between calling functions and methods.\r
+
+  \r
+
+  ```python\r
+
+  message = \"MAKE THIS LOWERCASE\"\r
+
+  \r
+
+  # Call the `lower` method\r
+
+  message = message.lower()\r
+
+  print(message)\r
+
+  ```\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false
