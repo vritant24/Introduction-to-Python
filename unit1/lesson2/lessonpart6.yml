@@ -1,0 +1,21 @@
+id: lessonpart6
+title: The Goal of Programs
+content: "The goal of any program is to transform the input data into the
+  desired outputs. For now, our programs will have simple inputs and simple
+  outputs that work through the terminal. But eventually, we will create complex
+  code that can achieve great things. For example, you could have the user speak
+  into a microphone, with their instructions translated into the movement of a
+  robot. Or, have the user input recent weather data in order to create the
+  output of future weather predictions.\r
+
+  \r
+
+  Remember: The goal of almost any program is to process input data into the
+  appropriate output on behalf of a user. You should always think about your
+  programs in terms of how they help a user achieve some goal. Keeping humans at
+  the center of the development process is often essential to making software
+  that helps people.\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false

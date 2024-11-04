@@ -1,0 +1,28 @@
+id: lessonpart10
+title: Summary
+content: "-   Every program can be broken down into the stages of taking input,
+  processing the data, and then presenting output.\r
+
+  -   The terminal, also known as a console, is one of the simplest places for
+  the input and output to occur.\r
+
+  -   In Python, we use the `input` and `print` functions to interact with the
+  terminal from our programs.\r
+
+  -   Eventually, we will build much more sophisticated programs that have other
+  ways of interacting with the user.\r
+
+  \r
+
+  ## Lesson Feedback\r
+
+  \r
+
+  Great job finishing this lesson! We hope you enjoyed it. We’d love to hear
+  your thoughts. How did the lesson go for you? After selecting an emoji below,
+  a new browser window will open briefly. You will know that your feedback was
+  recorded when the window automatically closes.\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false

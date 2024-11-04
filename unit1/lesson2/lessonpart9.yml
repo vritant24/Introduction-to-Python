@@ -1,0 +1,45 @@
+id: lessonpart9
+title: "⌨️ Code Challenge: Print Input"
+content: "Let’s try writing one more program. The goal of this code challenge is
+  to ask the user for their favorite animal, and then print out the animal in
+  the terminal.\r
+
+  \r
+
+  > [!TIP]\r
+
+  > Code Challenge Tip\r
+
+  > You will need to **incorporate the `input` function _in_ the `print`
+  function**.\r
+
+  \r
+
+  Remember, we will not write the name of the animal in our program - you should
+  use the `input` function to prompt the user for the name of the animal, and
+  then print out the result.\r
+
+  \r
+
+  When you run the program, you will need to type your answer into the terminal
+  to have the program finish running.\r
+
+  \r
+
+  Here is an example of how we could ask the user for their favorite color. You
+  can use this as a starting point for your program but will need to make
+  changes to meet the requirements of the challenge:\r
+
+  \r
+
+  ```python\r
+
+  favorite_color = input(\"What is your favorite color?\")\r
+
+  print(\"Your favorite color is\", favorite_color)\r
+
+  ```\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false

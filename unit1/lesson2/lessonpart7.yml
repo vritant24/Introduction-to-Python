@@ -1,0 +1,25 @@
+id: lessonpart7
+title: "⌨️ Code Challenge: Now You Print"
+content: "Now try writing your own Python program from scratch. Use the `print`
+  function to display the phrase:\r
+
+  \r
+
+  `This is programming!`\r
+
+  \r
+
+  Make sure you include the parentheses, double quotes, and all of the letters
+  and symbols! Here is a reminder of how `print` functions look:\r
+
+  \r
+
+  ```python\r
+
+  print(\"This text will be shown to the user!\")\r
+
+  ```\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false
