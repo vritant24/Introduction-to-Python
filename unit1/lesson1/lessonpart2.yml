@@ -1,0 +1,85 @@
+id: lessonpart2
+title: 💡 What is "Computer Science
+content: "Computer Science is not really about computers, and it is not really a
+  science. Instead, Computer Science is more about solving problems. Although we
+  use many tools, Computer Scientists' most common tool is Programming.\r
+
+  \r
+
+  ## What is \"Programming\"?\r
+
+  \r
+
+  A program is a series of concrete instructions that can be carried out by a
+  computer. A program can be thought of as a script for a play that will be
+  performed by actors who follow instructions perfectly but without any
+  intelligence of their own.\r
+
+  \r
+
+  Programs are sometimes also called:\r
+
+  \r
+
+  -   \"Software\"\r
+
+  -   \"Applications\"\r
+
+  -   \"Code\"\r
+
+  -   \"Scripts\"\r
+
+  \r
+
+  There are many kinds of programs that you use every day - your web browser,
+  your music player, and even video games. Programs can be run on laptops,
+  phones, cars - almost everything runs programs now.\r
+
+  \r
+
+  Programming now shows up in every field, from engineering to the sciences to
+  even the arts and humanities. Regardless of whether you want to be a computer
+  scientist or just someone who knows a bit about programming, this is a skill
+  that will come in handy.\r
+
+  \r
+
+  You might think that some of the things that computers do are mysterious, but
+  everything they do is the result of very careful instructions. Although
+  programming is very powerful, computers are not gods. In fact, programs can
+  only do what people have told them to do. You must be very clear and explicit
+  when writing programs.\r
+
+  \r
+
+  Fundamentally, a program takes some representation of the world, manipulates
+  it by following instructions, and then presents the results to the user. This
+  core idea of translating between reality and digital data is the very heart of
+  what we do.\r
+
+  \r
+
+  ## What is a Programming Language?\r
+
+  \r
+
+  Programs are created by writing instructions in a _programming language_, like
+  how movie scripts are written in human spoken languages like English.
+  Programming languages were created by computer scientists, to make it easy to
+  write instructions that a computer can understand. A computer can then run
+  these programs - if they are written correctly.\r
+
+  \r
+
+  > [!TIP]\r
+
+  > Your First Check Your Understanding Question\r
+
+  > As a reminder, _Check Your Understanding_ questions are like the quizzes you
+  take in your classroom. They help you remember, understand, and apply what
+  you've learned in the lesson. In this course, if you answer a question
+  incorrectly, you'll get hints to help you find the right answer.\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false

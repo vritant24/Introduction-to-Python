@@ -13,3 +13,4 @@ objectives: |-
         - Justify the use of Python compared to other language options.
 lessonParts:
   - lessonpart1.yml
+  - lessonpart2.yml

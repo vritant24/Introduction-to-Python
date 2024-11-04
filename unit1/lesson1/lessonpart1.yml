@@ -1,9 +1,48 @@
 id: lessonpart1
-title: Welcome to Introduction to Python
+title: Introduction
 duration: 5
-content: |-
-  **Welcome to the course authoring!**
-  You can use Markdown to format your content.
+content: >
+  ## Overview
+
+
+  In this lesson, you’ll learn about the basic ideas of Computer Science,
+  Programming, and Programs. This includes their abilities and limitations. You
+  will also learn about the Python programming language and why it is worth
+  learning.
+
+
+  ## Learning objectives
+
+
+  Upon completion of this lesson, you'll be able to:
+
+
+  -   Define the terms Computer Science, programs, and programming.
+
+  -   Explain abilities and limitations of programs.
+
+  -   Recognize synonyms for programs and execution.
+
+  -   Justify the use of Python compared to other language options.
+
+
+  ## Standards
+
+
+  Targeted standards for this unit include:
+
+
+  -   1A-AP-08, K-2: Model daily processes by creating and following algorithms
+  (sets of step-by-step instructions) to complete tasks.
+
+  -   3B-AP-24, 11-12: Compare multiple programming languages and discuss how
+  their features make them suitable for solving different types of problems.
+
+
+  ## References
+
+
+  -   [CSTA Standards](http://www.csteachers.org/standards)
 showContent: true
 showEditor: false
 showTerminal: false
