@@ -1,5 +1,15 @@
 id: lesson1
-title: About this course
-objectives: Understand the course structure and objectives.
+title: Lesson 1 - Fundamentals
+description: >
+  In this lesson, you'll learn about the basic ideas of Computer Science,
+  Programming, and Programs. This includes their abilities and limitations. You
+  will also learn about the Python programming language, and why it is worth
+  learning.
+objectives: |-
+  Upon completion of this lesson, you'll be able to:
+        - Define the terms Computer Science, programs, and programming.
+        - Explain abilities and limitations of programs.
+        - Recognize synonyms for programs and execution.
+        - Justify the use of Python compared to other language options.
 lessonParts:
   - lessonpart1.yml
