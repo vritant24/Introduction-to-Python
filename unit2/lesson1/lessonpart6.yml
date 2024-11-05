@@ -1,0 +1,31 @@
+id: lessonpart6
+title: Returning Values
+content: "Function calls return values, just like operations. Functions can
+  return any type of value: string, Boolean, integer, whatever. Mentally, when a
+  function is called, you can imagine the result replacing the entire function
+  call. In a way, this is like what happens when you do addition or
+  subtraction.\r
+
+  \r
+
+  ```python\r
+
+  # call function, result is returned and assigned\r
+
+  new_value = round(3.9)\r
+
+  \r
+
+  # Can use print it, update it, etc.\r
+
+  print(new_value)\r
+
+  new_value += 1\r
+
+  print(new_value)\r
+
+  ```\r\n"
+showContent: true
+showEditor: false
+showTerminal: false
+showExplorer: false
