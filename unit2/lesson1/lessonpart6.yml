@@ -1,5 +1,5 @@
 id: lessonpart6
-title: 💡 Returning Values
+title: Returning Values
 content: "Function calls return values, just like operations. Functions can
   return any type of value: string, Boolean, integer, whatever. Mentally, when a
   function is called, you can imagine the result replacing the entire function
