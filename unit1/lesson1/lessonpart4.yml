@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: lessonpart4
 title: 💡 A Language for Instructions
 content: "Human languages, like English or Spanish, can be used to talk about

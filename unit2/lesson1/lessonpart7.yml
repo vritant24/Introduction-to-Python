@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: lessonpart7
 title: Magic Function Box
 content: Think of a function as a magic box full of machinery. You may not be

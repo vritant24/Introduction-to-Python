@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
 id: lessonpart7
 title: "⌨️ Code Challenge: Now You Print"
 content: "Now try writing your own Python program from scratch. Use the `print`
