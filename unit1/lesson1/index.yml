@@ -12,6 +12,8 @@ objectives: |-
         - Explain abilities and limitations of programs.
         - Recognize synonyms for programs and execution.
         - Justify the use of Python compared to other language options.
+standards:
+  - csta-student:1a-ap-08
 lessonParts:
   - lessonpart1.yml
   - lessonpart2.yml

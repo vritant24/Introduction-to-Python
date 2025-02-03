@@ -5,7 +5,7 @@ duration: 5
 content: |
   ## Overview
 
-  In this lesson, you’ll learn about the basic ideas of Computer Science, Programming, and Programs. This includes their abilities and limitations. You will also learn about the Python programming language and why it is worth learning.
+  In this lesson, you’ll learn about the basic ideas of Computer Science, Programming, and Programs. This includes their abilities and limitations. You will also learn about the Python programming language and why it is worth **learning**.
 
   ## Learning objectives
 
@@ -20,8 +20,6 @@ content: |
 
   ## Standards
 
-
-
   Targeted standards for this unit include:
 
   * 1A-AP-08, K-2: Model daily processes by creating and following algorithms (sets of step-by-step instructions) to complete tasks.
@@ -31,6 +29,9 @@ content: |
 
   * [CSTA Standards](http://www.csteachers.org/standards)
 showContent: true
-showEditor: false
-showTerminal: false
+showEditor: true
+showTerminal: true
 showExplorer: false
+editors:
+  - type: py
+    path: course1:unit1:lesson1:lessonpart1/main.py
