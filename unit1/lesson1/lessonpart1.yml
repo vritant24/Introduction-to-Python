@@ -30,8 +30,5 @@ content: |
   * [CSTA Standards](http://www.csteachers.org/standards)
 showContent: true
 showEditor: true
-showTerminal: true
+showTerminal: false
 showExplorer: false
-editors:
-  - type: py
-    path: course1:unit1:lesson1:lessonpart1/main.py
