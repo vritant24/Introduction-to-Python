@@ -2,9 +2,11 @@
 id: course1
 title: Introduction to Python 2
 level: beginner
-description: >
+description: >-
   Python: flexible, easy, popular. Use it for web, software, data, QA, and more.
   Learn Python today!
+
+  This is an update
 objectives: >-
   This Python introductory computer science course is designed for both High
   School (grades 9-12) and College learners. The course does not have any
