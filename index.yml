@@ -1,6 +1,6 @@
-# yaml-language-server: $schema=https://vscodeedu.com/schema/course-v2.schema.json
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: course1
-title: Introduction to Python
+title: Introduction to Python 2
 level: beginner
 description: >
   Python: flexible, easy, popular. Use it for web, software, data, QA, and more.
