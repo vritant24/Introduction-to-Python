@@ -81,6 +81,9 @@ content: "> [!TIP]\r
   Using the same `print` call, try creating additional statements in the Editor
   and checking the output in the Terminal.\r\n"
 showContent: true
-showEditor: false
+showEditor: true
 showTerminal: false
 showExplorer: false
+editors:
+  - type: python
+    path: course1/unit1/lesson1/lessonpart6/newFile.py
