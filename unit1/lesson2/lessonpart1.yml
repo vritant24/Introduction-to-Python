@@ -1,52 +1,45 @@
 # yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: lessonpart1
 title: Introduction
-content: "## Overview\r
+content: >+
+  ## Overview
 
-  \r
 
   In this section, you will learn how your programs can interact with the user.
   We’ll begin by explaining the basic phases of program execution: taking input,
   processing the data, and then presenting output. Then we’ll explain how the
   _terminal_, also known as a _console_, is one place where that input and
   output can occur. We use the Python `input` and `print` functions to interact
-  with the terminal from our programs.\r
+  with the terminal from our programs.
 
-  \r
 
-  ## Learning Objectives\r
+  ## Learning Objectives
 
-  \r
 
-  Upon completion of this lesson, you'll be able to:\r
+  Upon completion of this lesson, you'll be able to:
 
-  \r
 
-  -   Explain the steps of program execution.\r
+  * Explain the steps of program execution.
 
-  -   Give examples of input and output for programs.\r
+  * Give examples of input and output for programs.
 
-  -   Write basic python code using print and input to interact with the user.\r
+  * Write basic python code using print and input to interact with the user.
 
-  -   Explain how programs fundamentally work by transforming data.\r
+  * Explain how programs fundamentally work by transforming data.
 
-  \r
 
-  ## Standards\r
+  ## Standards
 
-  \r
 
-  Targeted standards for this unit include:\r
+  Targeted standards for this unit include:
 
-  \r
 
-  -   1A-AP-08, K-2: Model daily processes by creating and following algorithms
-  (sets of step-by-step instructions) to complete tasks.\r
+  * 1A-AP-08, K-2: Model daily processes by creating and following algorithms
+  (sets of step-by-step instructions) to complete tasks.
 
-  \r
 
-  ## References\r
+  ## References
 
-  \r
 
-  -   [CSTA Standards](http://www.csteachers.org/standards)\r\n"
+  * [CSTA Standards](http://www.csteachers.org/standards)
+
