@@ -3,7 +3,3 @@ id: lessonpart5
 title: "⌨️ Code Challenge: Basic Output"
 content: "The code in your Editor will print the message `\"Hello world.\"`
   Change the message so that it instead prints `\"Python is great!\"`\r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false

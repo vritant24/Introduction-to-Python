@@ -40,7 +40,3 @@ content: "Let’s try writing one more program. The goal of this code challenge 
   print(\"Your favorite color is\", favorite_color)\r
 
   ```\r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false

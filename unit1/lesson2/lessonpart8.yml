@@ -29,7 +29,3 @@ content: "The `input` function lets you get information from users. The code
   anything back at the end. While not a very big program, this is a
   demonstration of the input-processing-output workflow that every program will
   have.\r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false

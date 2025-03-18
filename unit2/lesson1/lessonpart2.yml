@@ -55,7 +55,3 @@ content: "Functions are reusable chunks of code. Once code is wrapped in a
   \r
 
   ![](../media/image1.png)\r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false

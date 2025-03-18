@@ -27,7 +27,3 @@ content: "# Summary\r
   your thoughts. How did the lesson go for you? After selecting an emoji below,
   a new browser window will open briefly. You will know that your feedback was
   recorded when the window automatically closes.\r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false

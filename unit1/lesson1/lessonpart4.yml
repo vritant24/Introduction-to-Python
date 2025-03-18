@@ -88,7 +88,3 @@ content: "Human languages, like English or Spanish, can be used to talk about
   needs to be valid Python text, following all its syntax rules. But that means
   it's not that different from an essay you might write in your own
   language.\r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false

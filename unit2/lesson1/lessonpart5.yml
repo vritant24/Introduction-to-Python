@@ -37,7 +37,3 @@ content: "One of the most useful features of functions is _arguments_. Arguments
   function and what you want to do with the function. Some functions take one
   argument all the time, some take multiple arguments sometimes, and everything
   in between.\r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false

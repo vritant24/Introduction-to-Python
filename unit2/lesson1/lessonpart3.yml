@@ -23,7 +23,3 @@ content: "Methods are a special kind of function. They are attached strongly to
   print(message)\r
 
   ```\r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false

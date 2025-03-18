@@ -59,7 +59,3 @@ content: "In this course, you are learning a programming language named Python.
   sometimes refer to Python as a language, and sometimes refer to Python as a
   tool for running programs. Before we explain what it means to run a program,
   let us talk about programming languages a little more.\r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false

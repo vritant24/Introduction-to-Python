@@ -43,7 +43,3 @@ content: "## Phases of a Program\r
   out of your printer, or the movement of a robotic arm.\r
 
   \r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false

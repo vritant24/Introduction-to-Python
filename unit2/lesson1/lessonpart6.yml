@@ -26,7 +26,3 @@ content: "Function calls return values, just like operations. Functions can
   print(new_value)\r
 
   ```\r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false

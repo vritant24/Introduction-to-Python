@@ -26,7 +26,3 @@ content: "The `print` function lets you write information to users. Printing is
   console as like a messenger box, for sending and receiving data to and from
   the computer. Every time you run this program, the exact same text will be
   written in the console by the computer.\r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false

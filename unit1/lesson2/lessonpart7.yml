@@ -20,7 +20,3 @@ content: "Now try writing your own Python program from scratch. Use the `print`
   print(\"This text will be shown to the user!\")\r
 
   ```\r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false

@@ -16,7 +16,3 @@ content: "The goal of any program is to transform the input data into the
   programs in terms of how they help a user achieve some goal. Keeping humans at
   the center of the development process is often essential to making software
   that helps people.\r\n"
-showContent: true
-showEditor: false
-showTerminal: false
-showExplorer: false
