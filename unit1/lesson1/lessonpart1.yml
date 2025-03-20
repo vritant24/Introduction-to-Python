@@ -2,7 +2,7 @@
 id: lessonpart1
 title: Introduction to Python
 duration: 5
-content: |
+content: |+
   ## Overview
 
   In this lesson, you’ll learn about the basic ideas of Computer Science, Programming, and Programs. This includes their abilities and limitations. You will also learn about the Python programming language and why it is worth **learning**.
@@ -28,4 +28,5 @@ content: |
   ## References
 
   * [CSTA Standards](http://www.csteachers.org/standards)
+
 showEditor: true
