@@ -11,12 +11,13 @@ questionGroups:
   - questions:
       - id: "1"
         type: choice
-        content: ""
+        content: q1
+        hint: a
         options:
           - id: "1"
-            value: ""
+            value: a
             isCorrect: true
           - id: "2"
-            value: ""
+            value: a
           - id: "3"
-            value: ""
+            value: a

@@ -3,55 +3,49 @@ id: lessonpart2
 title: Calling Functions
 content: "Functions are reusable chunks of code. Once code is wrapped in a
   function, we can use it in other places. First, we'll learn how to use
-  functions. Later, we'll learn how to make them.\r
+  functions. Later, we'll learn how to make them.
 
-  \r
 
   When you want to \"use\" a function, we say that you \"call\" it. You can also
   use the terms \"execute\" and \"run,\" although those will usually be for full
   programs. Following are some other words we use when talking about using
-  functions:\r
+  functions:
 
-  \r
 
-  - \"Use\" a function\r
+  * \"Use\" a function
 
-  - \"Call\" a function\r
+  * \"Call\" a function
 
-  - \"Invoke\" a function\r
+  * \"Invoke\" a function
 
-  - \"Execute\" a function\r
+  * \"Execute\" a function
 
-  - \"Run\" a function\r
+  * \"Run\" a function
 
-  \r
 
-  ## **Syntax**\r
+  ## **Syntax**
 
-  \r
 
   There are two essential parts to calling a function: The name of the function
-  and then parentheses following the name.\r
+  and then parentheses following the name.
 
-  \r
 
-  ```python\r
+  ```python
 
   # Function name followed by parentheses\r
 
-  round(3.75)\r
+  round(3.75)
 
-  ```\r
+  ```
 
-  \r
 
   To call a function, you MUST add parentheses. Otherwise, you are simply
   referring to the name of the function rather than executing it. Think of it as
   the difference between \"thinking about going to the store\" as opposed to
   \"actually physically going to the store.\" The parentheses are what make this
-  a function call and not just the function name being referenced for no
-  reason.\r
+  a function call and not just the function name being referenced for no reason.
 
-  \r
 
-  ![](../media/image1.png)\r\n"
+  ![1.00](../media/image1.png)
+
+  \n"
