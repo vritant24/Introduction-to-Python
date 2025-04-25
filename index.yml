@@ -35,6 +35,7 @@ prerequisites: |-
 cardImageUrl: https://ppe.vscodeedu.com/assets/course-cards/card6.png
 contacts:
   - displayName: vritant24
+    affiliation: a
     homePageUrl: https://github.com/vritant24/Introduction-to-Python
 files:
   - path: course1/unit1/lesson1/lessonpart6/newFile.py
