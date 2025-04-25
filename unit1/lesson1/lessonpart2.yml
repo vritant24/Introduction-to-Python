@@ -16,8 +16,11 @@ questionGroups:
         options:
           - id: "1"
             value: a
+            explanation: as
             isCorrect: true
           - id: "2"
             value: a
+            explanation: asd
           - id: "3"
             value: a
+            explanation: sad
