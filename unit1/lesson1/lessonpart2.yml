@@ -7,3 +7,16 @@ content: |
   asdasdas
 
   asdasdasd
+questionGroups:
+  - questions:
+      - id: "1"
+        type: choice
+        content: ""
+        options:
+          - id: "1"
+            value: ""
+            isCorrect: true
+          - id: "2"
+            value: ""
+          - id: "3"
+            value: ""
