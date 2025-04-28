@@ -43,3 +43,4 @@ files:
 units:
   - unit1/index.yml
   - unit2/index.yml
+  - unit3/index.yml
