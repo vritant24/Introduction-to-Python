@@ -39,7 +39,9 @@ contacts:
     homePageUrl: https://github.com/vritant24/Introduction-to-Python
 files:
   - path: course1/unit1/lesson1/lessonpart6/newFile.py
-    content: "print(\"hi\")\r\n"
+    content: "from random import randint\r
+
+      print(\"hi\")\r\n"
 units:
   - unit1/index.yml
   - unit2/index.yml
