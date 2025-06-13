@@ -10,7 +10,8 @@ content: |
 
   asdasdasd
 questionGroups:
-  - questions:
+  - id: ""
+    questions:
       - id: "1"
         type: choice
         content: q1
