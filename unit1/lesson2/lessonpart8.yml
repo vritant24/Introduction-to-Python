@@ -2,23 +2,22 @@
 id: lessonpart8
 title: 💡 Input
 content: "The `input` function lets you get information from users. The code
-  below demonstrates incorporating the `input` function along with `print`:\r
+  below demonstrates incorporating the `input` function along with `print`:
 
-  \r
 
-  ```python\r
+  ```python
 
   favorite_color = input(\"What is your favorite color?\")\r
 
-  print(\"Your favorite color is\", favorite_color)\r
+  print(\"Your favorite color is\", favorite_color)
 
-  ```\r
 
-  \r
+  ```
 
-  > [!NOTE]\r
 
-  > Gathering Input From Your Users\r
+  > \\[!NOTE]
+
+  > Gathering Input From Your Users
 
   > Try running this program by copying it to your editor. Notice that once
   again there is text between parentheses asking for their favorite color. That
@@ -28,4 +27,6 @@ content: "The `input` function lets you get information from users. The code
   this program would only ask the user for their color, without ever reporting
   anything back at the end. While not a very big program, this is a
   demonstration of the input-processing-output workflow that every program will
-  have.\r\n"
+  have.
+
+  \n"
