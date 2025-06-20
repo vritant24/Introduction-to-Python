@@ -1,55 +1,46 @@
 # yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
 id: lessonpart5
 title: 💡 Executing a Program
-content: "![A picture of a program's source code, with an arrow pointing
-  downward next to it.](../media/image9.png)\r
-
-  \r
-
+content: >
   Once a program is written according to the Python language rules, the program
   can be executed. This means that the computer will read the text of the
   program line by line and perform each step. This is just like following the
   steps of a recipe or instructions; just like a human, the computer will do
-  each step one at a time.\r
+  each step one at a time.
 
-  \r
 
-  ## Terminology\r
+  ## Terminology
 
-  \r
 
-  When we want to use a program, we will say the program is \"run\" or
-  \"executed.\" Either a program will end on its own, or we will have to stop it
-  ourselves, which is sometimes referred to as \"killing\" a program.\r
+  When we want to use a program, we will say the program is "run" or "executed."
+  Either a program will end on its own, or we will have to stop it ourselves,
+  which is sometimes referred to as "killing" a program.
 
-  \r
 
-  -   **Run**: Perform each step of a program line by line\r
+  * **Run**: Perform each step of a program line by line
 
-  -   **Execute**: Synonym for \"run\"\r
 
-  -   **Kill**: To stop a program\r
+  * **Execute**: Synonym for "run"
 
-  \r
 
-  ## Programming Environments\r
+  * **Kill**: To stop a program
 
-  \r
+
+  ## Programming Environments
+
 
   One way to write programs is to use a text editor and then run them with
   Python on its own. But, most programmers prefer a _programming environment_
   (like this one) that simplifies writing programs and lets you run them with
   just one click. Usually, when you run a program, you see some visual output,
-  but this is not always the case.\r
+  but this is not always the case.
 
-  \r
 
   A programming environment is a software tool that helps you make programs. It
   has three parts: an editor, an interpreter, and a console. The editor is where
   you write your code. The interpreter is what runs your code. The console is
   where you see what your code does. A good programming environment can also
-  help you with coding features like colors, suggestions, and error checking.\r
+  help you with coding features like colors, suggestions, and error checking.
 
-  \r
 
-  Let’s write a simple program now and see how it works!\r\n"
+  Let’s write a simple program now and see how it works!
