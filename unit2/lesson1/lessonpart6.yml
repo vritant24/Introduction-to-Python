@@ -4,12 +4,10 @@ title: Returning Values
 content: "Function calls return values, just like operations. Functions can
   return any type of value: string, Boolean, integer, whatever. Mentally, when a
   function is called, you can imagine the result replacing the entire function
-  call. In a way, this is like what happens when you do addition or
-  subtraction.\r
+  call. In a way, this is like what happens when you do addition or subtraction.
 
-  \r
 
-  ```python\r
+  ```python
 
   # call function, result is returned and assigned\r
 
@@ -23,6 +21,8 @@ content: "Function calls return values, just like operations. Functions can
 
   new_value += 1\r
 
-  print(new_value)\r
+  print(new_value)
 
-  ```\r\n"
+  ```
+
+  \n"
