@@ -1,0 +1,101 @@
+# yaml-language-server: $schema=https://vscodeedu.com/assets/schema/course-v2.schema.json
+id: lessonpart1
+title: Page
+content: >
+  ## Writing For Loops in Python
+
+
+  In Python, a `for` loop is used to iterate over a sequence (such as a list,
+  tuple, dictionary, set, or string) and execute a block of code multiple times.
+  The syntax of a `for` loop in Python is straightforward and easy to
+  understand.
+
+
+  ### Basic Syntax
+
+
+  Here is the basic syntax of a `for` loop in Python:
+
+
+  ```python
+
+  for variable in sequence:
+      # Code block to be executed
+  ```
+
+
+  * `variable` is a temporary variable that takes the value of the current item
+  in the sequence during each iteration.
+
+
+  * `sequence` is the collection of items you want to iterate over.
+
+
+  * The indented block of code under the `for` statement is executed once for
+  each item in the sequence.
+
+
+  ### Example: Iterating Over a List
+
+
+  Let's look at an example where we iterate over a list of numbers and print
+  each number:
+
+
+  ```python
+
+  numbers = [1, 2, 3, 4, 5]
+
+
+  for number in numbers:
+      print(number)
+  ```
+
+
+  In this example, the `for` loop iterates over each element in the `numbers`
+  list and prints it.
+
+
+  ### Example: Using `range()`
+
+
+  The `range()` function is often used with `for` loops to generate a sequence
+  of numbers. Here's an example:
+
+
+  ```python
+
+  for i in range(5):
+      print(i)
+  ```
+
+
+  This will output numbers from 0 to 4. The `range(5)` function generates a
+  sequence of numbers from 0 up to, but not including, 5.
+
+
+  ### Example: Iterating Over a String
+
+
+  You can also use a `for` loop to iterate over each character in a string:
+
+
+  ```python
+
+  word = "Python"
+
+
+  for letter in word:
+      print(letter)
+  ```
+
+
+  This will print each letter of the word "Python" on a new line.
+
+
+  ### Conclusion
+
+
+  `For` loops are a powerful tool in Python that allow you to iterate over
+  sequences and perform operations on each element. Understanding how to use
+  `for` loops effectively will help you write more efficient and readable code.
