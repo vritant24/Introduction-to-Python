@@ -42,6 +42,8 @@ files:
     content: "from random import randint\r
 
       print(\"hi\")\r\n"
+  - path: course1/unit2/lesson2/lessonpart1/prompt.md
+    content: "# This will be your prompt file"
 units:
   - unit1/index.yml
   - unit2/index.yml

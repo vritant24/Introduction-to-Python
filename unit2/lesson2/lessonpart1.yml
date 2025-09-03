@@ -2,3 +2,7 @@
 id: lessonpart1
 title: Page
 content: ""
+showEditor: true
+showExplorer: true
+editors:
+  - course1/unit2/lesson2/lessonpart1/prompt.md
